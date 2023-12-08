@@ -4,19 +4,19 @@
       "id": 1,
       "description": "Cinderella's story",
       "title": "Cinderella",
-      "time":"hi"
+      "time": "hi"
     },
     {
       "id": 2,
       "description": "Snow White And The 7 Dwarfs's story",
       "title": "Snow White And The 7 Dwarfs"
-    }
-     {
+    },
+    {
       "id": 3,
       "description": "Beauty And The Beast's story",
       "title": "Beauty And The Beast"
-    }
-     {
+    },
+    {
       "id": 4,
       "description": "Rapunzel's story",
       "title": "Rapunzel"
