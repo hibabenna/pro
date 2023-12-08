@@ -10,17 +10,20 @@
     {
       "id": 2,
       "description": "Snow White And The 7 Dwarfs's story",
-      "title": "Snow White And The 7 Dwarfs"
+      "title": "Snow White And The 7 Dwarfs",
+      "img": "snowww.jpg"
     },
     {
       "id": 3,
       "description": "Beauty And The Beast's story",
-      "title": "Beauty And The Beast"
+      "title": "Beauty And The Beast",
+      "img": "beauty.jpg"
     },
     {
       "id": 4,
       "description": "Rapunzel's story",
-      "title": "Rapunzel"
+      "title": "Rapunzel",
+      "img": "rap.jpg"
     }
   ]
 }
