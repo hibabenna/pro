@@ -9,7 +9,8 @@
     {
       "id": 2,
       "description": "Snow White And The 7 Dwarfs's story",
-      "title": "Snow White And The 7 Dwarfs"
+      "title": "Snow White And The 7 Dwarfs",
+      "img":"snow.jpeg"
     },
     {
       "id": 3,
